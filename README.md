@@ -1,1 +1,1 @@
-# Exam8_MasterDetailsInCoreAPIwithAuth
+#MasterDetailsInCoreAPIwithAuthJWTBeararToken
